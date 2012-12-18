@@ -10,3 +10,5 @@ Runs like this on the dev server:
 </code>
 
 Add a line to urls.txt (even from the GitHub web editor!) and you're done. The curl.rb script pulls the repo before it runs.
+
+I recommend putting a param like ?KEEPALIVE on the url so that it shows up in the logs as such.
