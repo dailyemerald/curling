@@ -1,0 +1,2 @@
+http://beta.duckshousing.com/
+http://cht.herokuapp.com/
