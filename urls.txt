@@ -1,4 +1,3 @@
-http://beta.duckshousing.com/
-http://cht.herokuapp.com/
-http://dailyemerald.com/
-http://dailyemerald.com/?TEST_CURLING
+http://beta.duckshousing.com/?KEEPALIVE
+http://cht.herokuapp.com/?KEEPALIVE
+
