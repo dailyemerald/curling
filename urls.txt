@@ -1,3 +1,4 @@
 http://beta.duckshousing.com/?KEEPALIVE
 http://cht.herokuapp.com/?KEEPALIVE
 http://yes.herokuapp.com/?KEEPALIVE
+http://newsassign.herokuapp.com/?KEEPALIVE
